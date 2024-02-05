@@ -36,3 +36,7 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+
+
+![image-20240206013616117](C:\ff\source\_posts\hello-world.assets\image-20240206013616117.png)
